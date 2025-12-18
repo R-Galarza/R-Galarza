@@ -1,50 +1,59 @@
-<h1 align="center">Hi 👋, I'm Rafael Ruiz</h1>
-<h1 align="center"><a href="https://github.com/R-Galarza"></a> <a href="https://www.linkedin.com/in/rafael-ruiz-galarza-05564121b/">Offensive Security Analyst</a></h1>
- 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFFFFF&size=34&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+%F0%9F%91%8B;+I'm+Rafael+Ruiz;" />
+</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rafael-ruiz-galarza-05564121b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-ruiz-galarza-05564121b/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rgalarza19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rgalarza19/" height="30" width="40" /></a>
+<p align="center">
+  <img alt="Coding" width="300" src="./images/coding.gif" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
 
+  <h2>Web Pentesting Engineer</h2>
 
+  <p style="max-width: 600px;">
+    I enjoy breaking web applications to understand how they really work.
+    Focused on hands-on web pentesting, learning by doing, and sharing practical
+    security knowledge along the way.
+    <br/><br/>
+    Always curious. Always testing.
+  </p>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+  <hr style="width: 60%;"/>
 
-  - [Injections SQL Home Lab](URL)
+  <h3>Cybersecurity</h3>
 
+  <p>
+    <a href="https://github.com/R-Galarza/OWASP-TOP-10---Web-Application-Security-Risks/tree/main">
+      OWASP Top 10 – Web Application Security Risks
+    </a>
+    <br/>
+    <sub>Hands-on exploitation and remediation examples</sub>
+  </p>
 
-<h2>📄 Certifications </h2>
+  <br/>
 
-- [Certified Network Security Practitioner
-(CNSP)](URL)
+  <h3>Languages & Tools</h3>
 
-<h2> 🤳 Connect with me:</h2> 
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="38"/>
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="38"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="38"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38"/>
+  </p>
 
-[<img align="left" alt="Rafael Ruiz | LinkedIn" width="22px"
-src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="Rafael Ruiz | Instagram" width="22px"
-src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
+  <br/>
 
+  <h3>Connect with me</h3>
 
-[instagram]: https://www.instagram.com/rgalarza19/
-[linkedin]: https://www.linkedin.com/in/rafael-ruiz-galarza-05564121b/
+  <p>
+   <a href="https://linkedin.com/in/https://www.linkedin.com/in/rafael-ruiz-galarza-05564121b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-ruiz-galarza-05564121b/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/rgalarza19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rgalarza19/" height="30" width="40" /></a>
+  </p>
 
-<!--
-**Rafael Ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
