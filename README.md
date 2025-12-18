@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-  <img alt="Coding" width="300" src="./images/coding.gif" />
 </p>
 
 <div align="center">
 
-<h2 style="margin: 6px 0 10px 0;">
+<h2 style="margin: 6px 0;">
   Web Pentesting Engineer
 </h2>
+
 
   <p style="max-width: 600px;">
     I enjoy breaking web applications to understand how they really work.
