@@ -40,7 +40,7 @@
   <sub>Methodology-driven walkthroughs and lessons learned</sub>
 </p>
   <br/>
-
+   <hr style="width: 60%;"/>
   <h3>Languages & Tools</h3>
 
   <p>
@@ -57,7 +57,7 @@
   </p>
 
   <br/>
-
+ <hr style="width: 60%;"/>
   <h3>Connect with me</h3>
 
   <p>
