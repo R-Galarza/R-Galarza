@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Ruiz</h1>
-<h1><a href="https://github.com/R-Galarza"></a> <a href="https://www.linkedin.com/in/rafael-ruiz-galarza-05564121b/">Offensive Security Analyst</a></h1>
+<h1 align="center"><a href="https://github.com/R-Galarza"></a> <a href="https://www.linkedin.com/in/rafael-ruiz-galarza-05564121b/">Offensive Security Analyst</a></h1>
  
 
 <h3 align="left">Connect with me:</h3>
