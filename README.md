@@ -8,7 +8,9 @@
 
 <div align="center">
 
-  <h2>Web Pentesting Engineer</h2>
+<h2 style="margin: 6px 0 10px 0;">
+  Web Pentesting Engineer
+</h2>
 
   <p style="max-width: 600px;">
     I enjoy breaking web applications to understand how they really work.
