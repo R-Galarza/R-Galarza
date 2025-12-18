@@ -32,6 +32,13 @@
     <sub>Hands-on exploitation and remediation examples</sub>
   </p>
 
+<p>
+  <a href="https://github.com/R-Galarza/htb-writeups-retired">
+    Hack The Box – Retired Machines Writeups
+  </a>
+  <br/>
+  <sub>Methodology-driven walkthroughs and lessons learned</sub>
+</p>
   <br/>
 
   <h3>Languages & Tools</h3>
