@@ -22,7 +22,7 @@
 
   <hr style="width: 60%;"/>
 
-  <h3>Cybersecurity</h3>
+  <h3>Security Notes & Practice</h3>
 
   <p>
     <a href="https://github.com/R-Galarza/OWASP-TOP-10---Web-Application-Security-Risks/tree/main">
