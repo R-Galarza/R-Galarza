@@ -34,7 +34,7 @@
 <!--  Temporalmente oculto-->
 <p>
   <a href="https://github.com/R-Galarza/htb-writeups-retired">
-    Hack The Box – Retired Machines Writeups
+   OWASP Top 10 (2025) – Hack The Box Retired Labs
   </a>
   <br/>
   <sub>Methodology-driven walkthroughs and lessons learned</sub>
