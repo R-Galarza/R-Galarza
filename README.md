@@ -26,7 +26,7 @@
 
   <p>
     <a href="https://github.com/R-Galarza/OWASP-TOP-10---Web-Application-Security-Risks/tree/main">
-      OWASP Top 10 – Web Application Security Risks
+      OWASP Top 10 (2025) – Web Application Security Risks
     </a>
     <br/>
     <sub>Hands-on exploitation and remediation examples</sub>
