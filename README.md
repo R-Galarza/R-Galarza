@@ -42,7 +42,7 @@
 
 <p>
   <a href="https://github.com/R-Galarza/intracorp-ctf.git">
-   CTFs – Labs Dockers
+   CTFs – Labs Web Hacking
   </a>
   <br/>
   <sub>Hands-on CTF labs, walkthroughs, and learning notes</sub>
